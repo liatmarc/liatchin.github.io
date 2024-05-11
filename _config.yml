@@ -17,7 +17,7 @@ url: "https://github.com" # the base hostname & protocol for your site, e.g. htt
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Maryland, USA"
-resume_url: /docs/resume.docx
+resume_url: https://github.com/liatmarc/liatchin.github.io/blob/master/docs/Yolande%20Tra%20resume%202024.docx
 avatar_image: /img/profile_picture.JPG
 
 #-------------------------------
